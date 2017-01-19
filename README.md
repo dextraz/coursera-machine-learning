@@ -1,1 +1,1 @@
-# coursera-machine-learning Programming Assignments Solutions
+# Coursera Machine Learning Course by Andrew Ng - Programming Assignments Solutions(using Octave)
